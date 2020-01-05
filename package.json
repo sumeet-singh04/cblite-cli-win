@@ -1,6 +1,9 @@
 {
   "name": "cblite-cli-win",
-  "version": "1.0.0",
+  "bin": {
+    "cblite": "./bin/cblite.exe"
+  },
+  "version": "1.0.1",
   "description": "CLI tool to read cblite 2.0+ database files on Windows",
   "main": "bin/cblite.exe",
   "scripts": {
