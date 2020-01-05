@@ -1,0 +1,23 @@
+{
+  "name": "cblite-cli-win",
+  "version": "1.0.0",
+  "description": "CLI tool to read cblite 2.0+ database files on Windows",
+  "main": "bin/cblite.exe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumeet-singh04/cblite-cli-win.git"
+  },
+  "keywords": [
+    "CBLITE",
+    "cli"
+  ],
+  "author": "sumeet singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumeet-singh04/cblite-cli-win/issues"
+  },
+  "homepage": "https://github.com/sumeet-singh04/cblite-cli-win#readme"
+}
